@@ -87,7 +87,7 @@ Generates structured product plans, technical roadmaps, and market insights from
 
 `React` • `Tailwind CSS` • `FastAPI` • `Llama 3` • `Groq API`
 
-[![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/aayushijohri/AI-CoFounder)
+[![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/aayushijohri/AI-Co-Founder)
 
 </td>
 
