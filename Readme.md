@@ -23,9 +23,9 @@
 
 ## 🌐 Portfolio
 
-🔗 **Live:** https://aayushijohri.github.io/portfolio/
-
----
+<a href="https://aayushijohri.github.io/portfolio/" target="_blank">
+🌐 Visit Portfolio
+</a>
 
 ## 🧭 Currently
 
