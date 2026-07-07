@@ -78,6 +78,33 @@ Platform for detecting scams and deepfakes across text, images, audio, and video
 <tr>
 <td width="50%">
 
+### ☀️ SolarSentinel AI
+
+Space weather dashboard that processes telemetry data based on Aditya-L1 data formats to classify solar flare activity and visualize mission analytics.
+
+**Tech Stack**
+
+`React` • `FastAPI` • `LightGBM` • `MongoDB Atlas`
+
+[![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/aayushijohri/SolarSentinel-AI)
+
+</td>
+
+<td width="50%">
+
+
+<img src="./assets/solarsentinel-dashboard.png" width="100%" alt="SolarSentinel AI Dashboard"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
 ### 🚀 AI Co-Founder
 
 Generates structured product plans, technical roadmaps, and market insights from startup ideas using prompt chaining and LLM inference.
@@ -95,33 +122,6 @@ Generates structured product plans, technical roadmaps, and market insights from
 
 
 <img src="./assets/ai-cofounder-dashboard.png" width="100%" alt="AI Co-Founder Dashboard"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="50%">
-
-### ☀️ SolarSentinel AI
-
-Space weather dashboard that processes telemetry data based on Aditya-L1 data formats to classify solar flare activity and visualize mission analytics.
-
-**Tech Stack**
-
-`React` • `FastAPI` • `LightGBM` • `MongoDB Atlas`
-
-[![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/aayushijohri/SolarSentinel-AI)
-
-</td>
-
-<td width="50%">
-
-
-<img src="./assets/solarsentinel-dashboard.png" width="100%" alt="SolarSentinel AI Dashboard"/>
 
 </td>
 </tr>
