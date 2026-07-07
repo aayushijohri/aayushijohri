@@ -22,6 +22,8 @@
 </div>
 
 ---
+## 🌐 Portfolio
+https://aayushijohri.github.io/portfolio/
 
 # 🧭 Currently
 
