@@ -25,6 +25,8 @@
 
 🔗 **Live Portfolio:** https://aayushijohri.github.io/portfolio/
 
+---
+
 ## 🧭 Currently
 
 - B.Tech in Electronics & Communication Engineering (AI) @ IGDTUW (CGPA: 9.36)
