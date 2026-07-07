@@ -21,30 +21,27 @@
 
 </div>
 
----
 ## 🌐 Portfolio
-https://aayushijohri.github.io/portfolio/
 
-# 🧭 Currently
+🔗 **Live:** https://aayushijohri.github.io/portfolio/
 
-- 🎓 B.Tech in Electronics & Communication Engineering (AI) @ **IGDTUW** (CGPA **9.36**)
-- 💻 Building web applications using **React, Next.js, FastAPI, TypeScript, and Python**
-- 🤖 Building AI-powered applications focused on solving real-world problems
-- 🌱 Open Source Contributor — **GirlScript Summer of Code 2026** (16+ merged PRs)
-- 🔬 Full Stack + GenAI Intern — **IGDTUW AI&DS Department / Anveshan Foundation**
+---
+
+## 🧭 Currently
+
+- B.Tech in Electronics & Communication Engineering (AI) @ IGDTUW (CGPA: 9.36)
+- Building AI-powered full-stack applications using React, FastAPI, Node.js and Python
+- Full Stack + GenAI Intern — IGDTUW AI&DS Department / Anveshan Foundation
+- Open Source Contributor — GirlScript Summer of Code 2026 (16+ merged PRs)
 
 ---
 
 ## 🏆 Hackathon Highlights
 
-- 🥇 **2× National Hackathon Winner** — SYNAPSE 2026 • Web of Innovation 2026
-- 🥉 **HackVriksh 2025** — 2nd Runner-Up
-- 🏅 **4× Top 5 Finishes** — National Online Hackathon • Hack With Ignite • TechSprint (GDG SRCASW) • Hack The Matrix
-- ⚡ **20+ National Hackathons** with multiple Top 10, Top 20, and finalist finishes
-
-> Highlights include **Build with Gemini (Top 50)**, **AVISHKAAR Season 3 (Top 50)**, **Hackureka Ni-shō (Top 10)**, and **Build-A-Thon (Top 20)**.
-
----
+- 🥇 2× National Hackathon Winner
+- 🥉 HackVriksh 2025 — 2nd Runner-Up
+- ⭐ 4× Top 5 Finishes
+- ⭐ 20+ National Hackathons with multiple Top 10, Top 20 and Finalist finishes
 
 # 🚀 Projects
 
