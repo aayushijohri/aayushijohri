@@ -38,10 +38,9 @@
 
 ## 🏆 Hackathon Highlights
 
-- 🥇 2× National Hackathon Winner
-- 🥉 HackVriksh 2025 — 2nd Runner-Up
-- ⭐ 4× Top 5 Finishes
-- ⭐ 20+ National Hackathons with multiple Top 10, Top 20 and Finalist finishes
+- 🥇 5× National Hackathon Winner
+- ⭐ 5× Top 5 Finishes
+- ⭐ 25+ National Hackathons with multiple Top 10, Top 20 and Finalist finishes
 
 # 🚀 Projects
 
