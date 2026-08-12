@@ -38,7 +38,7 @@
 
 ## 🏆 Hackathon Highlights
 
-- 🥇 5× National Hackathon Winner
+- 🥇 6× National Hackathon Winner
 - ⭐ 5× Top 5 Finishes
 - ⭐ 25+ National Hackathons with multiple Top 10, Top 20 and Finalist finishes
 
