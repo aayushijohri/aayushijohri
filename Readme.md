@@ -1,71 +1,126 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&duration=3000&pause=1000&color=4C7FFF&center=true&vCenter=true&width=700&height=50&lines=Hi,+I'm+Aayushi+Johri;Building+AI+and+Full-Stack+Applications" alt="Typing Header" />
+# Hi, I'm Aayushi Johri 👋
 
-### Building full-stack applications, AI tools, and open-source projects.
+### Full-Stack Developer • AI Builder • Open Source Contributor
+
+Building backend-heavy full-stack applications, AI systems, and open-source projects.
 
 <p>
-  <img src="https://img.shields.io/badge/B.Tech-ECE--AI%20@%20IGDTUW-111111?style=flat-square&labelColor=111111&color=4C7FFF"/>
-  <img src="https://img.shields.io/badge/CGPA-9.36-111111?style=flat-square&labelColor=111111&color=8B5CF6"/>
+  <img src="https://img.shields.io/badge/B.Tech-ECE--AI%20@%20IGDTUW-111111?style=flat-square&labelColor=111111&color=2563EB"/>
+  <img src="https://img.shields.io/badge/CGPA-9.36-111111?style=flat-square&labelColor=111111&color=7C3AED"/>
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/aayushi-johri-b92654381/" target="_blank">
+  <a href="https://www.linkedin.com/in/aayushi-johri-b92654381">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:aayushijohri2025@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://aayushijohri.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 </div>
 
-## 🌐 Portfolio
+---
 
-🔗 **Live Portfolio:** https://aayushijohri.github.io/portfolio/
+# 👩🏻‍💻 About Me
+
+I'm a **second-year Electronics & Communication Engineering (AI)** student at **IGDTUW** with a **9.36 CGPA**.
+
+I enjoy building **backend-heavy full-stack applications**, AI-powered developer tools, and scalable web platforms while actively contributing to hackathons and open source.
+
+Currently focused on **Data Structures & Algorithms**, backend engineering, and production-ready AI systems.
 
 ---
 
-## 🧭 Currently
+# ⚡ Engineering Snapshot
 
-- B.Tech in Electronics & Communication Engineering (AI) @ IGDTUW (CGPA: 9.36)
-- Building AI-powered full-stack applications using React, FastAPI, Node.js and Python
-- Full Stack + GenAI Intern — IGDTUW AI&DS Department / Anveshan Foundation
-- Open Source Contributor — GirlScript Summer of Code 2026 (16+ merged PRs)
+<table>
+<tr>
+<td align="center" width="25%">
+
+## 🧩 DSA
+
+Striver A2Z Journey
+
+<sub>Consistently solving Data Structures & Algorithms.</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+## 🏆 4×
+
+National Hackathon Winner
+
+<sub>Multiple National-Level Podium Finishes</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+## 🚀 16+
+
+Merged Pull Requests
+
+<sub>GirlScript Summer of Code 2026</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+## 🎓 9.36
+
+Current CGPA
+
+<sub>IGDTUW • ECE-AI</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Hackathon Highlights
-
-- 🥇 7× National Hackathon Winner
-- ⭐ 5× Top 5 Finishes
-- ⭐ 25+ National Hackathons with multiple Top 10, Top 20 and Finalist finishes
-
-# 🚀 Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🛡️ EmpowerNet AI
+### 💬 Udhaar Wise
 
-Platform for detecting scams and deepfakes across text, images, audio, and video using pretrained machine learning models. Includes a Chrome extension for browser-based analysis and a FastAPI backend for inference.
+**WhatsApp Business Inventory & Credit Management Platform**
+
+Backend-heavy platform for inventory, customer credit, order management, and automated payment reminders built around the **Meta WhatsApp Business API**.
 
 **Tech Stack**
 
-`React` • `TypeScript` • `FastAPI` • `RoBERTa` • `EfficientNet-B5` • `MongoDB`
+`React` • `TypeScript` • `Node.js` • `Express` • `Supabase` • `PostgreSQL`
 
+**Highlights**
 
-[![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/aayushijohri/EmpowerNet-AI)
+- WhatsApp Business Graph API integration.
+- Customer credit & inventory services.
+- Automated payment reminder workflows.
+- Merchant dashboard backend.
+
+**Achievement**
+
+🥇 **Girls Hack Day 2026 — 1st Place**
+
+[![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/aayushijohri/Udhaar-Wise)
 
 </td>
 
 <td width="50%">
 
-
-
-<img src="./assets/empowernet-dashboard.png" width="100%" alt="EmpowerNet Dashboard"/>
+<img src="./assets/udhaarwise-dashboard.png" width="100%" alt="Udhaar Wise Dashboard"/>
 
 </td>
 </tr>
@@ -79,18 +134,26 @@ Platform for detecting scams and deepfakes across text, images, audio, and video
 
 ### ☀️ SolarSentinel AI
 
-Space weather dashboard that processes telemetry data based on Aditya-L1 data formats to classify solar flare activity and visualize mission analytics.
+**Space Weather Forecasting Platform**
+
+Machine learning platform that processes telemetry data structured around **Aditya-L1 mission formats** to forecast solar flare activity and visualize mission analytics.
 
 **Tech Stack**
 
-`React` • `FastAPI` • `LightGBM` • `MongoDB Atlas`
+`React` • `FastAPI` • `LightGBM` • `XGBoost` • `MongoDB Atlas`
+
+**Highlights**
+
+- Modular FastAPI backend.
+- ML preprocessing pipeline.
+- SHAP explainability.
+- Automated testing workflow.
 
 [![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/aayushijohri/SolarSentinel-AI)
 
 </td>
 
 <td width="50%">
-
 
 <img src="./assets/solarsentinel-dashboard.png" width="100%" alt="SolarSentinel AI Dashboard"/>
 
@@ -104,23 +167,30 @@ Space weather dashboard that processes telemetry data based on Aditya-L1 data fo
 <tr>
 <td width="50%">
 
-### 🚀 AI Co-Founder
+### 🛡️ EmpowerNet AI
 
-Generates structured product plans, technical roadmaps, and market insights from startup ideas using prompt chaining and LLM inference.
+**Multi-Modal Scam & Deepfake Detection Platform**
+
+AI-powered platform for detecting scams and deepfakes across text, images, audio, and video using a FastAPI inference backend and browser-based analysis.
 
 **Tech Stack**
 
-`React` • `Tailwind CSS` • `FastAPI` • `Llama 3` • `Groq API`
+`React` • `TypeScript` • `FastAPI` • `Python` • `RoBERTa` • `MongoDB`
 
-[![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/aayushijohri/AI-Co-Founder)
+**Highlights**
+
+- OCR + NLP + Computer Vision pipeline.
+- Evidence management backend.
+- Explainable fraud reports.
+- Chrome Extension prototype.
+
+[![Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/aayushijohri/EmpowerNet-AI)
 
 </td>
 
 <td width="50%">
 
-
-
-<img src="./assets/ai-cofounder-dashboard.png" width="100%" alt="AI Co-Founder Dashboard"/>
+<img src="./assets/empowernet-dashboard.png" width="100%" alt="EmpowerNet Dashboard"/>
 
 </td>
 </tr>
@@ -132,10 +202,23 @@ Generates structured product plans, technical roadmaps, and market insights from
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,fastapi,mongodb,git,github,vscode,vercel,html,css,tailwind&perline=8" />
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+
+### Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vscode,vercel"/>
 
 </div>
-
 
 ---
 
@@ -143,15 +226,76 @@ Generates structured product plans, technical roadmaps, and market insights from
 
 ### GirlScript Summer of Code 2026
 
-Contributed **16+ merged pull requests** across multiple repositories involving feature development, bug fixes, and collaborative code reviews.
+Contributed **16+ merged pull requests** across open-source repositories involving:
+
+- Feature development.
+- Bug fixes.
+- UI improvements.
+- Documentation.
+- Collaborative code reviews.
 
 ---
 
-## 📈 GitHub Activity
+# 🏆 Hackathon Highlights
+
+| Achievement | Competition |
+|-------------|-------------|
+| 🥇 **1st Place** | Girls Hack Day 2026 |
+| 🥇 **1st Place** | Web of Innovation 2026 |
+| 🥇 **1st Place** | Synapse 2025 |
+| 🥇 **1st Place** | ShePreneurs 2026 |
+| 🥉 **3rd Place** | HackVriksh 2025 |
+| 🥉 **3rd Place** | Edge Hack 2026 |
+| ⭐ **Best Girls Team · 5th Place** | Hack The Matrix 2026 |
+
+**25+ national hackathons** with multiple finalist and Top 10 finishes across AI, Full Stack, and Product Development competitions.
+
+---
+
+# 💼 Experience
+
+### Full Stack + GenAI Intern
+
+**IGDTUW AI&DS Department × Anveshan Foundation**
+
+`June 2026 — Present`
+
+- Building full-stack applications using React, Express, FastAPI, and MongoDB.
+- Developing REST APIs and AI-powered workflows.
+- Collaborating using Git and Agile development practices.
+
+---
+
+# 🎯 Positions of Responsibility
+
+- **Training & Placement Coordinator** — IGDTUW *(Aug 2026 – Present)*
+- **Technical & Content Coordinator** — IEEE IGDTUW
+- **Research Coordinator** — Protégé IGDTUW
+
+---
+
+# 📚 Currently Learning
+
+- Data Structures & Algorithms — Striver A2Z Roadmap.
+- Backend system design fundamentals.
+- SQL & PostgreSQL.
+- FastAPI deployment and scalable backend architecture.
+
+---
+
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushijohri&theme=github-dark&hide_border=true"/>
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushijohri&theme=github-dark&hide_border=true"/>
+
+<br/>
+
+<img width="75%" src="https://github-readme-stats.vercel.app/api?username=aayushijohri&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<br/>
+
+<img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushijohri&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -159,7 +303,15 @@ Contributed **16+ merged pull requests** across multiple repositories involving 
 
 <div align="center">
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
+
+<a href="https://aayushijohri.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aayushijohri">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/aayushi-johri-b92654381/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -168,5 +320,13 @@ Contributed **16+ merged pull requests** across multiple repositories involving 
 <a href="mailto:aayushijohri2025@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Building scalable products • Learning continuously • Open to Software Engineering & AI opportunities.</sub>
 
 </div>
