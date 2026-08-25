@@ -47,9 +47,9 @@ Currently focused on **Data Structures & Algorithms**, backend engineering, and 
 
 ## 🧩 DSA
 
-Striver A2Z Journey
+Data Structures & Algorithms
 
-<sub>Consistently solving Data Structures & Algorithms.</sub>
+<sub>Consistently practicing problem solving & interview preparation.</sub>
 
 </td>
 
@@ -269,14 +269,14 @@ Contributed **16+ merged pull requests** across open-source repositories involvi
 # 🎯 Positions of Responsibility
 
 - **Training & Placement Coordinator** — IGDTUW *(Aug 2026 – Present)*
-- **Technical & Content Coordinator** — IEEE IGDTUW
-- **Research Coordinator** — Protégé IGDTUW
+- **Technical & Content Coordinator** — IEEE IGDTUW.
+- **Research Coordinator** — Protégé IGDTUW.
 
 ---
 
 # 📚 Currently Learning
 
-- Data Structures & Algorithms — Striver A2Z Roadmap.
+- Data Structures & Algorithms.
 - Backend system design fundamentals.
 - SQL & PostgreSQL.
 - FastAPI deployment and scalable backend architecture.
@@ -313,7 +313,7 @@ Contributed **16+ merged pull requests** across open-source repositories involvi
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/aayushi-johri-b92654381/">
+<a href="https://www.linkedin.com/in/aayushi-johri-b92654381">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
