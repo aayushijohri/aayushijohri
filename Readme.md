@@ -282,23 +282,21 @@ Contributed **16+ merged pull requests** across open-source repositories involvi
 - FastAPI deployment and scalable backend architecture.
 
 ---
-
-# 📈 GitHub Activity
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushijohri&theme=github-dark&hide_border=true"/>
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com?user=aayushijohri&theme=github-dark&hide_border=true"/>
 
 <br/>
 
-<img width="75%" src="https://github-readme-stats.vercel.app/api?username=aayushijohri&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img width="75%" src="https://github-readme-stats-one-bice.vercel.app/api?username=aayushijohri&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
 <br/>
 
-<img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushijohri&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="75%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aayushijohri&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
-
 ---
 
 <div align="center">
