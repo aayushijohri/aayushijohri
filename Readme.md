@@ -288,12 +288,6 @@ Contributed **16+ merged pull requests** across open-source repositories involvi
 
 <img src="https://streak-stats.demolab.com?user=aayushijohri&theme=github-dark&hide_border=true" width="600"/>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=aayushijohri&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="420"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushijohri&layout=compact&theme=github_dark&hide_border=true" width="320"/>
-
 </div>
 ---
 
